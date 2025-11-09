@@ -22,8 +22,8 @@ A simple to-do list web application built with vanilla JavaScript, HTML, and CSS
 1. Clone the repository
 2. Open `index.html` in your browser
    ```
-   git clone [repository-url]
-   cd [project-folder]
+   git clone https://github.com/Daniyal0100101/todo-list-js.git
+   cd todo-list-js
    ```
 
 ## Project Structure
@@ -41,4 +41,4 @@ This project demonstrates fundamental web development concepts including DOM man
 
 ---
 
-*A frontend development practice project*
+_A frontend development practice project_
